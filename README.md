@@ -4,3 +4,4 @@
 * google sheet of fc blacklists
 * FC chest usage, what is fair esp. with materia transmuting
 * Submarines, airships, making rank 3 fc buff wheels
+* Discord commands for kupobot, limitations and workarounds
